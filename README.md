@@ -1,5 +1,5 @@
 Ce dépôt héberge la version de travail d'un cours de Programmation Orientée
-Objet en Python, destiné au site [Zeste De Savoir](http://zestedesavoir.com).
+Objet en Python, [publié sur Zeste De Savoir](https://zestedesavoir.com/tutoriels/1253/la-programmation-orientee-objet-en-python/).
 
 # Installation
 
@@ -19,5 +19,6 @@ Pour compiler le tutoriel :
 Ceci génère le tutoriel au format html dans le répertoire `_build/html`.
 Pour la liste des formats supportés par Sphinx, tapez `make`.
 
+## Licence
 
-
+Cours sous licence [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
